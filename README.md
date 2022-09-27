@@ -3,7 +3,7 @@
 ## Introduction
 	This is example to show diiferent changes
 ## Purpose
-
+	the knowledge is the purpose
 ## Deployment
-
+	CI/CD through devops
 ## How to contribute
