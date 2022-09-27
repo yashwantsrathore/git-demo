@@ -7,3 +7,4 @@
 ## Deployment
 	CI/CD through devops
 ## How to contribute
+	Comparison of comparison of 
